@@ -1,4 +1,4 @@
-## Eaai, eu sou o Gean Lopes
+## Oii, eu sou Gean
 <div><br>
   <a href="https://github.com/fgeanlopes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fgeanlopes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
